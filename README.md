@@ -37,4 +37,4 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|[Персонализированная рекомендательная система постов в социальной сети](https://github.com/ErmakovArtem/Social-Network-Recommender-System)|Построение рекомендательной системы: от выгрузки данных из PostgreSQL до развёртывания сервиса, который возвращает персонализированные рекомендации (список релевантных постов для пользователя).|Pandas, Numpy, Matplotlib, Scikit-learn, CatBoost, Pytorch, LightGBM, XGBoost, SQL, AirFlow, Docker|
+|[Персонализированная рекомендательная система постов в социальной сети](https://github.com/ErmakovArtem/Social-Network-Recommender-System)|Построение рекомендательной системы: от выгрузки данных из PostgreSQL до развёртывания сервиса, который возвращает персонализированные рекомендации (список релевантных постов для пользователя).|Python, SQL, Numpy, Pandas, Matplotlib, Scikit-learn, CatBoost, LightGBM, XGBoost, Pytorch, Huggingface, BERT, EDA, RecSys, NLP|
